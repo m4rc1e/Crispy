@@ -2,7 +2,8 @@
 .appVersion = "3418";
 .formatVersion = 3;
 DisplayStrings = (
-ddp
+ddp,
+A
 );
 axes = (
 {
@@ -30,7 +31,7 @@ value = (
 }
 );
 date = "2018-06-13 01:37:59 +0000";
-familyName = Crispy;
+familyName = "Crispy-0625";
 fontMaster = (
 {
 axesValues = (
