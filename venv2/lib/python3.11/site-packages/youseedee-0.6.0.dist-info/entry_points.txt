@@ -1,0 +1,2 @@
+[console_scripts]
+youseedee = youseedee.__main__:main
