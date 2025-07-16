@@ -2,7 +2,7 @@ sources:
   - Crispy-VF.glyphs
 familyName: Crispy
 avar2:
-  Crispy-VF[XOPQ,XTRA,YOPQ].ttf:
+  Crispy-VF.ttf:
   - in:
       wght: 100
     out:
