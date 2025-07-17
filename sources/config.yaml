@@ -1,33 +1,38 @@
 sources:
   - Crispy-VF-spaced.glyphs
 familyName: Crispy
+buildStatic: false
 avar2:
   Crispy-VF-spaced[RXAD,XOPQ,XTRA,YOPQ].ttf:
   - in:
       wght: 100
+      wdth: 50
     out:
-      XTRA: 651
-      XOPQ: 91.9
-      YOPQ: 84.9
-      RXAD: 40
-  - in:
-      wght: 400
-    out:
-      XTRA: 650.5
-      XOPQ: 282.3
-      YOPQ: 196
-      RXAD: 40
-  - in:
-      wght: 700
-    out:
-      XTRA: 735.6
-      XOPQ: 468.7
-      YOPQ: 325.7
+      XTRA: 240
+      XOPQ: 2
+      YOPQ: 2
       RXAD: 40
   - in:
       wght: 900
+      wdth: 50
     out:
-      XTRA: 804.4
-      XOPQ: 622.7
-      YOPQ: 396.6
+      XTRA: 94
+      XOPQ: 355
+      YOPQ: 252
+      RXAD: 40
+  - in:
+      wght: 100
+      wdth: 200
+    out:
+      XTRA: 2500
+      XOPQ: 2
+      YOPQ: 2
+      RXAD: 40
+  - in:
+      wght: 900
+      wdth: 200
+    out:
+      XTRA: 2016
+      XOPQ: 1016
+      YOPQ: 462
       RXAD: 40
