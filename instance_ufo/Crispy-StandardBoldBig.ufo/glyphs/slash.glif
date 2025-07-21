@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash" format="2">
+  <advance width="886.0431689968023"/>
+  <unicode hex="002F"/>
+  <outline>
+    <component base="backslash" xScale="-1.0" xOffset="886.0431689968023"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>backslash</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

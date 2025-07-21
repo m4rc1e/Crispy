@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="2127.0999514865616"/>
+  <unicode hex="0024"/>
+  <anchor x="1063.9857524986367" y="0.0" name="bottom"/>
+  <anchor x="1063.9857524986367" y="1600.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1099.8916628258075" y="-108.80376026757351" type="line"/>
+      <point x="1186.4770977329183" y="-108.80376026757351" type="line"/>
+      <point x="1186.4770977329183" y="1703.7117595644527" type="line"/>
+      <point x="1099.8916628258075" y="1703.7117595644527" type="line"/>
+    </contour>
+    <component base="S" xScale="0.9999999999999999" yScale="0.9999999999999999" xOffset="-11.355065017003543"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

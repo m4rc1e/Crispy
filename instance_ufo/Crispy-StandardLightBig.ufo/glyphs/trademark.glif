@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="1625.145332464696"/>
+  <unicode hex="2122"/>
+  <anchor x="1132.6363721841115" y="319.9933144508336" name="bottom"/>
+  <anchor x="361.3416053643648" y="960.0000000000001" name="center"/>
+  <anchor x="1132.6363721841115" y="1599.9933144508336" name="top"/>
+  <outline>
+    <component base="T" xScale="0.8" yScale="0.8" xOffset="9.97219070429369" yOffset="320.0"/>
+    <component base="M" xScale="0.8" yScale="0.8" xOffset="654.5988084902176" yOffset="319.9933144508336"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>T</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>M</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="1274.2605668393733"/>
+  <unicode hex="0057"/>
+  <anchor x="597.5469546173675" y="1600.0" name="top"/>
+  <anchor x="597.5469546173675" y="0.0" name="bottom"/>
+  <outline>
+    <component base="M" xScale="-1.0" yScale="-1.0" xOffset="1274.2605668393733" yOffset="1600.0"/>
+  </outline>
+</glyph>

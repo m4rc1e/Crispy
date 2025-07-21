@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="1896.0447906941054"/>
+  <unicode hex="0051"/>
+  <anchor x="947.9043681321878" y="0.0" name="bottom"/>
+  <anchor x="947.9043681321878" y="800.0" name="center"/>
+  <anchor x="1706.3504005428008" y="10.0" name="ogonek"/>
+  <anchor x="947.9043681321878" y="1600.0" name="top"/>
+  <anchor x="20.0" y="1600.0" name="topleft"/>
+  <anchor x="1876.0447906941058" y="1600.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="807.9892838315562" y="-262.41153895673443" type="line"/>
+      <point x="1144.1409693502665" y="-262.41153895673443" type="line"/>
+      <point x="1144.1409693502665" y="0.7888262430718289" type="line"/>
+      <point x="807.9892838315562" y="0.7888262430718289" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

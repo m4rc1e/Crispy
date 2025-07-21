@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="1286.393150477279"/>
+  <unicode hex="00A2"/>
+  <anchor x="649.4317217067126" y="0.0" name="bottom"/>
+  <anchor x="649.4317217067126" y="1200.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="753.8717646936009" y="-134.35744805122096" type="line"/>
+      <point x="813.5420586641549" y="-134.35744805122096" type="line"/>
+      <point x="813.5420586641549" y="1362.9449433101756" type="line"/>
+      <point x="753.8717646936009" y="1362.9449433101756" type="line"/>
+    </contour>
+    <component base="c" xOffset="-2.577832888559207"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

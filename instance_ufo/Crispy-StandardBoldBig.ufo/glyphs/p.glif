@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p" format="2">
+  <advance width="1711.2195677308869"/>
+  <unicode hex="0070"/>
+  <anchor x="855.6770529109087" y="1200.0" name="top"/>
+  <anchor x="427.5477321870653" y="-80.0" name="center"/>
+  <anchor x="855.6770529109087" y="0.0" name="bottom"/>
+  <anchor x="20.0" y="-400.0" name="bottomleft"/>
+  <outline>
+    <component base="d" xScale="-1.0" yScale="-1.0" xOffset="1711.2195677308869" yOffset="1200.0"/>
+  </outline>
+</glyph>

@@ -6,7 +6,6 @@ avar2:
   Crispy-VF-spaced[RXAD,XOPQ,XTRA,YOPQ].ttf:
   - in:
       wght: 100
-      wdth: 50
     out:
       XTRA: 240
       XOPQ: 2
@@ -14,25 +13,8 @@ avar2:
       RXAD: 40
   - in:
       wght: 900
-      wdth: 50
     out:
       XTRA: 94
       XOPQ: 355
       YOPQ: 252
-      RXAD: 40
-  - in:
-      wght: 100
-      wdth: 200
-    out:
-      XTRA: 2500
-      XOPQ: 2
-      YOPQ: 2
-      RXAD: 40
-  - in:
-      wght: 900
-      wdth: 200
-    out:
-      XTRA: 2016
-      XOPQ: 1016
-      YOPQ: 462
       RXAD: 40
