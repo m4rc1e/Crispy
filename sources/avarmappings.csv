@@ -1,0 +1,25 @@
+Instance,XTRA,XOPQ,YOPQ,RXAD,WGHT-e (Weight),WDTH-e (Width),OPSZ-e (Optical Size)
+Standard Light Big,580,91.9,84.9,40,200,100,72
+Standard Light Small,580,78.115,72.165,80,200,100,12
+Standard Medium Big,650.5,283.3,196,40,500,100,72
+Standard Medium Small,650.5,240.805,166.6,80,500,100,12
+Standard Bold Big,735.6,468.7,325.7,40,700,100,72
+Standard Bold Small,735.6,398.395,276.845,80,700,100,12
+Standard Black Big,804.4,622.7,396.6,40,900,100,72
+Standard Black Small,804.4,529.295,337.11,80,900,100,12
+Condensed Light Big,94,53.714,51.22,40,200,40,72
+Condensed Light Small,94,45.6569,43.537,80,200,40,12
+Condensed Medium Big,155.484,205.814,174.5,40,500,40,72
+Condensed Medium Small,155.484,174.9419,148.325,40,500,40,12
+Condensed Bold Big,213.732,299.102,279.38,40,700,40,72
+Condensed Bold Small,213.732,254.2367,237.473,80,700,40,12
+Condensed Black Big,229.912,512.042,416.46,40,900,40,72
+Condensed Black Small,229.912,435.2357,353.991,80,900,40,12
+Extended Light Big,1495.188,109.484,92.62,40,200,160,72
+Extended Light Small,1495.188,93.0614,78.727,80,200,160,12
+Extended Medium Big,1501.66,293.018,234.76,40,500,160,72
+Extended Medium Small,1501.66,249.0653,199.546,80,500,160,12
+Extended Bold Big,1605.212,493.79,351.14,40,700,160,72
+Extended Bold Small,1605.212,419.7215,298.469,80,700,160,12
+Extended Black Big,1977.352,672.254,435.78,40,900,160,72
+Extended Black Small,1977.352,571.4159,370.413,80,900,160,12
