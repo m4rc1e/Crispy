@@ -17,6 +17,7 @@ compreffor==0.5.6
 cryptography==45.0.5
 defcon==0.12.2
 Deprecated==1.2.18
+ffmpeg-python==0.2.0
 filelock==3.18.0
 font-v==2.1.0
 fontFeatures==1.9.0
@@ -25,9 +26,10 @@ fontMath==0.9.4
 fontParts==0.13.1
 fontPens==0.2.4
 fonttools==4.59.0
+future==1.0.0
 gflanguages==0.7.5
 gfsubsets==2024.9.25
-gftools @ git+https://github.com/googlefonts/gftools.git@c19152b554e4ab45bdf5163b83af6147addcd2c6
+gftools==0.9.91
 gitdb==4.0.12
 GitPython==3.1.44
 glyphsets==1.1.0
@@ -67,7 +69,6 @@ resvg-cli==0.44.0
 rich==14.0.0
 ruamel.yaml==0.18.14
 ruamel.yaml.clib==0.2.12
-setuptools==80.9.0
 six==1.17.0
 skia-pathops==0.8.0.post2
 smmap==5.0.2
