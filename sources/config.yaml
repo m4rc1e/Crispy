@@ -62,7 +62,49 @@ stat:
     - name: Max
       value: 80
 
-# Comprehensive avar2 mappings
+fvarInstances:
+  Crispy-VF-spaced[RXAD,XOPQ,XTRA,YOPQ].ttf:
+  - name: ExtraLight
+    coordinates:
+      wght: 200
+      wdth: 100
+      opsz: 12
+  - name: Light
+    coordinates:
+      wght: 300
+      wdth: 100
+      opsz: 12
+  - name: Regular
+    coordinates:
+      wght: 400
+      wdth: 100
+      opsz: 12
+  - name: Medium
+    coordinates:
+      wght: 500
+      wdth: 100
+      opsz: 12
+  - name: SemiBold
+    coordinates:
+      wght: 600
+      wdth: 100
+      opsz: 12
+  - name: Bold
+    coordinates:
+      wght: 700
+      wdth: 100
+      opsz: 12
+  - name: ExtraBold
+    coordinates:
+      wght: 800
+      wdth: 100
+      opsz: 12
+  - name: Black
+    coordinates:
+      wght: 900
+      wdth: 100
+      opsz: 12
+
 avar2:
   Crispy-VF-spaced[RXAD,XOPQ,XTRA,YOPQ].ttf:
   - in:
@@ -152,17 +194,17 @@ avar2:
       opsz: 12
     out:
       XTRA: 94
-      XOPQ: 45.6569
-      YOPQ: 43.537
+      XOPQ: 46
+      YOPQ: 44
       RXAD: 80
   - in:
       wght: 500
       wdth: 40
       opsz: 72
     out:
-      XTRA: 155.484
-      XOPQ: 205.814
-      YOPQ: 174.5
+      XTRA: 155
+      XOPQ: 206
+      YOPQ: 175
       RXAD: 40
   - in:
       wght: 500
@@ -281,3 +323,4 @@ avar2:
       XOPQ: 571.4159
       YOPQ: 370.413
       RXAD: 80
+includeSourceFixes: true
