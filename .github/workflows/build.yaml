@@ -71,6 +71,7 @@ jobs:
       zip_name: ${{ env.ZIP_NAME }}
 
   deploy:
+    if: ${{ github.ref == 'refs/heads/main' }}
     name: Deploy website to GitHub Pages
     needs: build
     runs-on: ubuntu-latest
