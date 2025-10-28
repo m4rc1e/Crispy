@@ -56,7 +56,7 @@ jobs:
     - name: setup site
       run: cp scripts/index.html out/index.html
     - name: Deploy
-      uses: actions/upload-pages-artifact@v3.0.1
+      uses: actions/upload-pages-artifact@v4
       if: ${{ github.ref == 'refs/heads/main' }}
       with:
         path: ./out
@@ -71,6 +71,7 @@ jobs:
       zip_name: ${{ env.ZIP_NAME }}
 
   deploy:
+    if: ${{ github.ref == 'refs/heads/main' }}
     name: Deploy website to GitHub Pages
     needs: build
     runs-on: ubuntu-latest
