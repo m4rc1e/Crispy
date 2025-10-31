@@ -23,7 +23,8 @@ customize: venv
 
 build.stamp: venv sources/config.yaml $(SOURCES)
 	rm -rf fonts
-	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done)  && touch build.stamp
+	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done) && \
+	gftools avar2-to-avar1 fonts/variable/Crispy[RXAD,XOPQ,XTRA,YOPQ].ttf -m scripts/mapping.yaml -o fonts/variable/Crispy[RXAD,XOPQ,XTRA,YOPQ]-avar1.ttf && touch build.stamp
 
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv
