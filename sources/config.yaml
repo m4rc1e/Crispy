@@ -1,11 +1,11 @@
 sources:
-  - Crispy-VF-spaced.glyphs
+  - Crispy.glyphs
 familyName: Crispy
 buildStatic: false
 
 # STAT table definitions for custom axes
 stat:
-  Crispy-VF-spaced[RXAD,XOPQ,XTRA,YOPQ].ttf:
+  Crispy[RXAD,XOPQ,XTRA,YOPQ].ttf:
   - name: Weight
     tag: wght
     values:
@@ -63,7 +63,7 @@ stat:
       value: 80
 
 fvarInstances:
-  Crispy-VF-spaced[RXAD,XOPQ,XTRA,YOPQ].ttf:
+  Crispy[RXAD,XOPQ,XTRA,YOPQ].ttf:
   - name: ExtraLight
     coordinates:
       wght: 200
@@ -106,7 +106,7 @@ fvarInstances:
       opsz: 12
 
 avar2:
-  Crispy-VF-spaced[RXAD,XOPQ,XTRA,YOPQ].ttf:
+  Crispy[RXAD,XOPQ,XTRA,YOPQ].ttf:
   - in:
       wght: 200
       wdth: 100
