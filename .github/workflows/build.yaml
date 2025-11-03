@@ -97,6 +97,7 @@ jobs:
     if: contains(github.ref, 'refs/tags/')
     needs: build
     runs-on: ubuntu-latest
+    permissions: write-all
     env:
       ZIP_NAME: ${{ needs.build.outputs.zip_name }}
       GH_TOKEN: ${{ github.token }}
